@@ -1,0 +1,20 @@
+body#bisque{
+    background-color: bisque;
+}
+
+h1#cent{
+    color: maroon;
+    text-align: center;
+    font-size: 50px;
+}
+
+p.bold{
+ font-size: 25px;
+ font-weight: bolder;
+}
+
+div.centro{
+    text-align: center;
+    font-size: larger;
+    color: brown;
+}

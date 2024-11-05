@@ -1,0 +1,14 @@
+body#color{
+    background-color: bisque;
+}
+
+h1#center{
+    text-align: center;
+    color: maroon;
+    font-size: 50px;
+}
+
+p.brown{
+    color: brown;
+    font-size: larger;
+}
